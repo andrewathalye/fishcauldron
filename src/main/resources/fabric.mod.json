@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "fishcauldron",
+  "version": "${version}",
+
+  "name": "Fish Cauldron",
+  "description": "Put fish backets into cauldrons",
+  "authors": [
+    "ZENITHSEEKER"
+  ],
+  "contact": {
+    "sources": "https://github.com/andrewathalye/fishcauldron"
+  },
+
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    ]
+  },
+  "mixins": [
+    "fishcauldron.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+  }
+}
