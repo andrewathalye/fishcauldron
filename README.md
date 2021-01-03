@@ -1,12 +1,8 @@
-# Visibility
+# Fish Cauldron
 
 ## Description
 
-Allows invisible entities to be seen and identified, and gives all entities a glowing effect so that they can be seen from behind blocks.
-
-## Warning
-
-This should *ONLY* be used on anarchy servers, since it is effectively equivalent to ESP or similar hacks.
+Allows buckets of fish to be used in cauldrons. Can be installed serverside.
 
 ## License
 
